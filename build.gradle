@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+}
+
+group 'io.github.agenttroll'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = JavaVersion.VERSION_1_8
+targetCompatibility = JavaVersion.VERSION_1_8
+
+repositories {
+    mavenCentral()
+    maven {
+        url 'https://hub.spigotmc.org/nexus/content/repositories/snapshots'
+    }
+}
+
+dependencies {
+    compileOnly 'org.spigotmc:spigot-api:1.16.2-R0.1-SNAPSHOT'
+}
+
+processResources {
+    expand project.properties
+}
+
+jar {
+    archiveFileName = 'SchedTemporalTest.jar'
+}

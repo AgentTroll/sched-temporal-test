@@ -1,0 +1,5 @@
+main: io.github.agenttroll.schedtemporaltest.SchedTemporalTest
+name: SchedTemporalTest
+version: ${project.version}
+
+api-version: 1.16
