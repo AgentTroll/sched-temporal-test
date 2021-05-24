@@ -48,7 +48,7 @@ section below.
 # Building
 
 ```
-git clone https://github.com/AgentTroll/sched-temporal-test.git
+git clone https://github.com/caojohnny/sched-temporal-test.git
 cd sched-temporal-test
 ./gradlew jar
 ```

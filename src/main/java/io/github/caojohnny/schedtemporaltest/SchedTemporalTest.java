@@ -1,8 +1,8 @@
-package io.github.agenttroll.schedtemporaltest;
+package io.github.caojohnny.schedtemporaltest;
 
-import io.github.agenttroll.schedtemporaltest.data.CurrentTickData;
-import io.github.agenttroll.schedtemporaltest.listener.PlayerInteractListener;
-import io.github.agenttroll.schedtemporaltest.task.TickTrackingTask;
+import io.github.caojohnny.schedtemporaltest.data.CurrentTickData;
+import io.github.caojohnny.schedtemporaltest.listener.PlayerInteractListener;
+import io.github.caojohnny.schedtemporaltest.task.TickTrackingTask;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 

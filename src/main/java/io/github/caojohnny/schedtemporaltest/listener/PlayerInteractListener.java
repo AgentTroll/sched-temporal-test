@@ -1,7 +1,7 @@
-package io.github.agenttroll.schedtemporaltest.listener;
+package io.github.caojohnny.schedtemporaltest.listener;
 
-import io.github.agenttroll.schedtemporaltest.SchedTemporalTest;
-import io.github.agenttroll.schedtemporaltest.data.CurrentTickData;
+import io.github.caojohnny.schedtemporaltest.SchedTemporalTest;
+import io.github.caojohnny.schedtemporaltest.data.CurrentTickData;
 import org.bukkit.Bukkit;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

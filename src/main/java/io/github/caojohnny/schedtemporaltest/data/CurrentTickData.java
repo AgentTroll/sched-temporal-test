@@ -1,4 +1,4 @@
-package io.github.agenttroll.schedtemporaltest.data;
+package io.github.caojohnny.schedtemporaltest.data;
 
 /**
  * This is a wrapper class that contains the "current" tick

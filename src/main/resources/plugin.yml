@@ -1,4 +1,4 @@
-main: io.github.agenttroll.schedtemporaltest.SchedTemporalTest
+main: io.github.caojohnny.schedtemporaltest.SchedTemporalTest
 name: SchedTemporalTest
 version: ${project.version}
 

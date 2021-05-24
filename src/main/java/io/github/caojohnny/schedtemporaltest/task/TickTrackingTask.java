@@ -1,7 +1,7 @@
-package io.github.agenttroll.schedtemporaltest.task;
+package io.github.caojohnny.schedtemporaltest.task;
 
-import io.github.agenttroll.schedtemporaltest.SchedTemporalTest;
-import io.github.agenttroll.schedtemporaltest.data.CurrentTickData;
+import io.github.caojohnny.schedtemporaltest.SchedTemporalTest;
+import io.github.caojohnny.schedtemporaltest.data.CurrentTickData;
 
 import static java.lang.String.format;
 
